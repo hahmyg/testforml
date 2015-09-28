@@ -9,7 +9,7 @@ details
 details
 
 ## Licenses
-* 'CC BY-NC-SA' [Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+* `BY-NC-SA` [Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 ## Citation
 
