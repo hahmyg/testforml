@@ -14,7 +14,7 @@ details
 ## Citation
 
 If you use the current of PROJECT NAME, please cite the following papers.
-[PAPER NAME](http://mrlab.kaist.ac.kr/paper/PAPER NAME
+[PAPER NAME](http://mrlab.kaist.ac.kr/paper/PAPER NAME)
 
 ## Documentation
 
